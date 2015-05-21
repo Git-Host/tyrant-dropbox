@@ -1,6 +1,6 @@
 {
   "name": "Dropbox Webhook Example",
-  "logo": "static/tyrant.png",
+  "logo": "https://mdwebhook.herokuapp.com/static/dropbox-logo.png",
   "repository": "https://github.com/dropbox/mdwebhook",
   "website": "https://www.dropbox.com/developers/webhooks/tutorial",
   "keywords": ["dropbox", "python", "flask"],
